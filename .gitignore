@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/creditcard.csv
+data/fraud.db
+.env
+*.pyc

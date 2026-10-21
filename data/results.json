@@ -1,0 +1,21 @@
+{
+  "rows_after_cleaning": 283726,
+  "duplicates_removed": 1081,
+  "fraud_rate_pct": 0.1667,
+  "roc_auc": 0.965,
+  "pr_auc": 0.668,
+  "recall_at_0.5": 0.874,
+  "precision_at_0.5": 0.056,
+  "alerts_at_0.5": 1486,
+  "high_threshold": 0.99,
+  "review_cost_assumed": 5,
+  "high_alerts": 115,
+  "high_fraud_caught": 75,
+  "test_fraud_total": 95,
+  "high_precision_pct": 65.2,
+  "high_value_flagged": 109708,
+  "fraud_value_caught_high": 10977,
+  "fraud_value_total_test": 14766,
+  "medium_alerts": 1371,
+  "medium_fraud": 8
+}
